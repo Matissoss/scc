@@ -7,10 +7,10 @@ It is simple encryption utility made in Rust. (And maybe my first steps in encry
 ### UNDER DEVELOPMENT!
 
 To do:
-[x] Basic Encryption
-[] Decryption
-[] File Encoding/Decoding Support
-[] Adding CLI Utils
+- [x] Basic Encryption
+- [ ] Decryption
+- [ ] File Encoding/Decoding Support
+- [ ] Adding CLI Utils
 
 ### Compling from source
 
